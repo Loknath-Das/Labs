@@ -115,7 +115,7 @@ In this task, you create a group account. Group accounts can include user accoun
 
     >**Note**: An Entra ID Premium P1 or P2 license is required for dynamic membership. If other **Membership types** are available, the options will show up in the drop-down. 
     
-    ![Screenshot of create assigned group.](../media/az104-lab01-create-assigned-group.png)
+    ![Screenshot of create assigned group.](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/media/az104-lab01-create-assigned-group.png)
 
 1. Select **No owners selected**.
 
