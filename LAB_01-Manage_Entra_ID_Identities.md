@@ -21,7 +21,7 @@ Your organization is building a new lab environment for pre-production testing o
 
 ## Architecture diagram
 
-![Diagram of the lab 01 architecture.](../media/az104-lab01-architecture.png)
+![Diagram of the lab 01 architecture.](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/media/az104-lab01-architecture.png)
 
 ## Job skills
 
